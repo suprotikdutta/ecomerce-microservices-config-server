@@ -1,9 +1,1 @@
-spring:
-  data:
-    mongodb:
-      uri: mongodb://localhost:27017/product-service
-  application:
-    name: coming-from-application-yaml
 
-server:
-  port: 3016
